@@ -4,6 +4,9 @@ This is a fun computer vision game where you catch AI-generated fruit images **w
 The game uses a **Variational Autoencoder (VAE)** to generate new fruit images on the fly, and **MediaPipe** for real-time head tracking. You control a green circle using your head movements via your webcam.
 
 ---
+## Demo
+[fruit-demo.webm](https://github.com/user-attachments/assets/d23cb3bb-6785-460e-a56f-4a13b584b84f)
+
 
 ## Quickstart
 
