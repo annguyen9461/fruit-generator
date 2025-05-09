@@ -7,6 +7,8 @@ The game uses a **Variational Autoencoder (VAE)** to generate new fruit images o
 ## Demo
 [fruit-demo.webm](https://github.com/user-attachments/assets/d23cb3bb-6785-460e-a56f-4a13b584b84f)
 
+## Fruit Samples
+![sampled-30](https://github.com/user-attachments/assets/9eb17073-c181-4327-80e1-dd256be61c32)
 
 ## Quickstart
 
